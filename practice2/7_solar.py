@@ -3,7 +3,7 @@ grid  = [[0] * n for _ in range(m)]
 
 x = y = 0
 
-#chatgpt 코드를 변형시켜 grid를 만들었습니다.
+#chatgpt 코드
 
 dirx = [1, 0, -1, 0]
 diry = [0, 1, 0, -1]
